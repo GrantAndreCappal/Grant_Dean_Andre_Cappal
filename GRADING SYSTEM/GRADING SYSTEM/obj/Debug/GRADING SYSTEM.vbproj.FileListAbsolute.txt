@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\bin\Debug\GRADING SYSTEM.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\obj\Debug\GRADING SYSTEM.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\obj\Debug\GRADING_SYSTEM.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\obj\Debug\GRADING_SYSTEM.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\obj\Debug\GRADING SYSTEM.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\bin\Debug\GRADING SYSTEM.exe
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\bin\Debug\GRADING SYSTEM.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\bin\Debug\GRADING SYSTEM.xml
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\obj\Debug\GRADING SYSTEM.exe
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\obj\Debug\GRADING SYSTEM.xml
+c:\users\administrator\documents\visual studio 2015\Projects\GRADING SYSTEM\GRADING SYSTEM\obj\Debug\GRADING SYSTEM.pdb
