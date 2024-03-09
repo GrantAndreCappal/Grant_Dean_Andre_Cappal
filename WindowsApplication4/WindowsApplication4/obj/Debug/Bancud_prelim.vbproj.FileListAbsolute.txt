@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\Bancud_prelim.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\Bancud_prelim.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
